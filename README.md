@@ -47,9 +47,9 @@ npm install
 
 ```json
 {
-  "serverHost": "yourserver.aternos.me",
-  "serverPort": 25565,
-  "botUsername": "MyBotName",
+  "serverHost": "goku789v-P5IB.aternos.me:",
+  "serverPort": 49036,
+  "botUsername": "bot 24/7",
   "botChunk": 4
 }
 ```
@@ -76,9 +76,9 @@ On successful connection:
 
 | Key            | Description                                |
 | -------------- | ------------------------------------------ |
-| `serverHost`         | IP or domain of your Minecraft server      |
-| `serverPort`         | Server port (default is 25565)             |
-| `botUsername`     | The bot's visible name in-game             |
+| `goku789v-P5IB.aternos.me`         | IP or domain of your Minecraft server      |
+| `49036`         | Server port (default i)             |
+| `bot of 24/7`     | The bot's visible name in-game             |
 | `botChunk` | Radius of loaded chunks (recommended: 1–6) |
 
 ---
